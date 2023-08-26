@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajupadhyay&show_icons=true&locale=en&layout=compact" alt="rajupadhyay" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajupadhyay&show_icons=true&locale=en" alt="rajupadhyay" /></p>
+<p>&nbsp;<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="rajupadhyay" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajupadhyay&" alt="rajupadhyay" /></p>
