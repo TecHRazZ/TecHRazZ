@@ -3,7 +3,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="rajupadhyay" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="rajupadhyay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="rajupadhyay" /> </p>
 
 - 🌱 I’m currently learning **NEXTJS**
 
@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **raj121upadhyay@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/raj-upadhayay-17a6a6206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raj-upadhayay-17a6a6206" height="30" width="40" /></a>
 <a href="https://instagram.com/rj_raj_upadhyay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rj_raj_upadhyay" height="30" width="40" /></a>
 </p>
