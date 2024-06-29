@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="rajupadhyay" /> </p>
 
-- 🌱 I’m currently learning **NEXTJS**
+<p align="center">- 🌱 I’m currently learning **NEXTJS**</p>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**
 
