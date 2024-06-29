@@ -7,9 +7,9 @@
 
 <p align="center">- 🌱 I’m currently learning **NEXTJS**</p>
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
+<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript, PHP** </p>
 
-- 📫 How to reach me **raj121upadhyay@gmail.com**
+<p align="center">- 📫 How to reach me **raj121upadhyay@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
