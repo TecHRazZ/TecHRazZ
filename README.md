@@ -1,7 +1,6 @@
-<p align="center">&nbsp;<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="rajupadhyay" /></p>
 <h1 align="center">Hi 👋, I'm Raj Upadhyay</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
+<p align="center">&nbsp;<img align="center" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="rajupadhyay" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="rajupadhyay" /> </p>
 
 <p align="center">- 🌱 I’m currently learning **NEXTJS, JAVA fullstack with Springboot**</p>
