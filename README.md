@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajupadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="rajupadhyay" /> </p>
 
-<p align="center">- 🌱 I’m currently learning **NEXTJS**</p>
+<p align="center">- 🌱 I’m currently learning **NEXTJS, JAVA fullstack with Springboot**</p>
 
-<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript, PHP** </p>
+<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript, PHP, AJAX, MySql** </p>
 
 <p align="center">- 📫 How to reach me **raj121upadhyay@gmail.com**</p>
 <br/>
