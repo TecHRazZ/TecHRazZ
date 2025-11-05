@@ -5,7 +5,7 @@
 
 <p align="center">- 🌱 I’m currently learning **NEXTJS, JAVA fullstack with Springboot**</p>
 
-<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript, PHP, AJAX, MySql** </p>
+<p align="center">- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, PHP, AJAX, MySql** </p>
 
 <p align="center">- 📫 How to reach me **raj121upadhyay@gmail.com**</p>
 <br/>
